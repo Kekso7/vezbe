@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.rimske,
+.kvadrat {
+	margin: 50px;
+}
+
+.kvadrat {
+	list-style-type: square;
+}
+
+.rimske {
+	list-style-type: upper-roman;
+}

@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.liste {
+	margin: 50px;
+	list-style-type: square;
+}

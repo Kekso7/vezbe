@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.image {
+	background-image: url(/images/oldtimer.jpg);
+	height: 80vh;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}

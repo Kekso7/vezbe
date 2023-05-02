@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.inline {
+	background-color: rgb(42, 42, 42);
+	color: white;
+	height: 400px;
+	text-align: center;
+}
+
+.inlineBlock {
+	display: inline-block;
+	margin-top: 200px;
+}
+
+.flexBox {
+	background-color: brown;
+	color: bisque;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

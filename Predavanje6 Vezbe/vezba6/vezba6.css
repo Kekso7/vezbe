@@ -1,0 +1,18 @@
+.black {
+	background-color: black;
+	color: rgb(255, 255, 255);
+	margin: 0 50px;
+	border: 4px ridge blue;
+}
+
+.red {
+	background-color: red;
+	margin: 100px;
+	border: 8px dashed purple;
+}
+
+.green {
+	background-color: green;
+	margin: 0 150px;
+	border: 8px double rgb(255, 128, 0);
+}
